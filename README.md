@@ -9,4 +9,4 @@ Otherwise,
 
 DO NOT FOLLOW THE ZEITGIEST!
 
-Zeitgiest Definition: "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time."
+Zeitgiest = "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time."
